@@ -1,7 +1,7 @@
 # Olá! Eu sou Leonardo 🤚
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lele.oliveira50)
-[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedlin.com/Leonardo Alves de Oliveira)
+[![Linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo&show_icons=true&theme=dracula)
 
